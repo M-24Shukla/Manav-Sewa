@@ -1,0 +1,34 @@
+name: manav_seva
+description: A new Flutter application.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.0
+  syncfusion_flutter_calendar: ^19.3.56
+  firebase_core: ^1.10.0
+  firebase_auth: ^3.2.0
+  cloud_firestore: ^3.1.0
+  url_launcher: ^6.0.17
+  http: ^0.13.4
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/

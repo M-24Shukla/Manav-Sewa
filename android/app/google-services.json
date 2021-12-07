@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98016930156",
+    "project_id": "manav-seva-7cbae",
+    "storage_bucket": "manav-seva-7cbae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98016930156:android:d82ba800c191f9151bab49",
+        "android_client_info": {
+          "package_name": "com.example.manav_seva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98016930156-inqroa6mp3aku30fv2v0h2v9ma8uh1ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAEDfKUOPvNfY2NOdkxvkKmjtmdKaJN7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98016930156-inqroa6mp3aku30fv2v0h2v9ma8uh1ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
